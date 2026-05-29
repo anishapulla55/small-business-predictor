@@ -42,6 +42,11 @@ The model was optimied to better identify risky loans rather than maximizing raw
 Live Demo
 https://small-business-predictor-dg9teazs9dftz9xgxhbvxn.streamlit.app/
 
+<img width="1573" height="1305" alt="image" src="https://github.com/user-attachments/assets/e8253b04-9d98-4f02-aba5-9738fb5a2dfd" />
+
+<img width="609" height="449" alt="image" src="https://github.com/user-attachments/assets/4a879b20-2b87-4e94-bb9d-758cd6447b10" />
+
+
 Future Improvements
 * Additional model experimentation
 * Feature importance visualizations
